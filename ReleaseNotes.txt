@@ -1,10 +1,10 @@
 Release notes 1.1.1
 
-- New API for Dominus Coin Wallet
+- New API for Dominus Coin Wallet - Andre Wallace 2017 All Rights Reserved
 
 Release notes 1.1.0
 
-- CryptoNote RPC Wallet
+- Dominus Coin Wallet
 - Aggregate multi-addresses for Dominus Coin Wallet
 - Fusion transactions
 - Transactions pool synchronization
@@ -35,12 +35,12 @@ Release notes 1.0.2
 
 - Further optimization in daemon RAM consumption
 - Various network health updates
-- Config and CryptoNote forking how-to update
+- Config and Dominus Coin forking how-to update
 
 Release notes 1.0.1
 
 - High level API implementation
-- CryptoNight hash function optimization
+- Crypto hash function optimization
 - Improvements for wallet JSON RPC API
 
 Release notes 0.8.10
@@ -97,5 +97,3 @@ Release notes 0.8.2
 - major bug fix in simple wallet. 
 
 Release notes 0.8.1
-
-Bytecoin project is moved to GitHub
