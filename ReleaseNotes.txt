@@ -1,11 +1,11 @@
 Release notes 1.1.1
 
-- New API for CryptoNote RPC Wallet
+- New API for Dominus Coin Wallet
 
 Release notes 1.1.0
 
 - CryptoNote RPC Wallet
-- Aggregate multi-addresses for CryptoNote RPC Wallet
+- Aggregate multi-addresses for Dominus Coin Wallet
 - Fusion transactions
 - Transactions pool synchronization
 - Wallet synchronization speed increase
